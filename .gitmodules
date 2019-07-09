@@ -1,0 +1,3 @@
+[submodule "omnifood-client"]
+	path = omnifood-client
+	url = git@github.com:Foxhound401/omnifood-client.git
